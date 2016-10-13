@@ -1,2 +1,3 @@
 # hello-world
-hello world
+
+This project is my hello-world
